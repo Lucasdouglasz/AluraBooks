@@ -7,7 +7,7 @@
     background-position: center;
 }
 .container__botao:checked ~ .container__rotulo > .cabecalho__menu-hamburguer{
-    background-image: url(../img/Menu Aberto.svg);
+    background-image: url(../img/Menuaberto.svg);
 }
 .container__botao:checked ~ .container__rotulo {
     background: var(--azul-degrade);
